@@ -28,6 +28,7 @@ class Explore extends Component {
   }
 
   render() {
+    console.log("form second branch");
     return (
       <SafeAreaView style={{ flex: 1 }}>
         <View style={{ flex: 1 }}>
